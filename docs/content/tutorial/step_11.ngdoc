@@ -198,6 +198,8 @@ solve the problem, we use a newly-defined `toEqualData` [Jasmine matcher][jasmin
 the `toEqualData` matcher compares two objects, it takes only object properties into account and
 ignores methods.
 
+After including your new component, remember to restart your Karma session.
+
 __`test/unit/controllersSpec.js`:__
 
 
